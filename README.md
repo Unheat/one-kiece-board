@@ -48,15 +48,27 @@ To type supplementary characters without holding the Space key, press the Shift 
 
 5. Requirements Phase:
 -Story, defining the purpose of creating the product.
+
 -Identifying the basic requirements for the keyboard: Who is it for? What are the main features?
+
 -Finalize basic requirements.
+
 -Design Phase:
+
 +Design detailed documentation (including a visual description of each key and its functionality).
+
 +Design principles, block diagrams.
+
 +Refine the system logic and prepare coding plans.
+
 +Output: Completed documentation, system diagrams, implementation plans.
+
 -Implementation Phase: (Circuit design using Altium.)
+
 +Design and manufacture of hardware components (frame, keys, etc.).
+
 +Coding based on the logic diagram created in the design phase, using Arduino IDE and C/C++.
+
 -Verification Phase:
+
 Testing the keyboard and addressing any bugs.
