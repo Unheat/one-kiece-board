@@ -76,4 +76,3 @@ Testing the keyboard and addressing any bugs.
 
 ![398301567_259799773316403_7283304413622249078_n](https://github.com/Unheat/one-kiece-board/assets/100108666/766b8e3d-4507-4f3b-80ef-587f16bbc416)
 
-Testing the keyboard and addressing any bugs.
