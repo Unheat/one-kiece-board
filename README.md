@@ -25,7 +25,7 @@ Group 4 (blue characters below and on the right) includes: {'#', '$', '=', '+', 
 Group 5 (black numbers and symbols at the bottom right) includes: {'-', '7', '8', '9', '*', '+', '4', '5', '6', '/', '0', '1', '2', '3', '-'}
 Group 6 (yellow function keys at the bottom left) includes: {PAGE_UP, PAUSE, END, HOME, ESC, PAGE_DOWN, UP_ARROW, LEFT_ALT, LEFT_CTRL, INSERT, LEFT_ARROW, DOWN_ARROW, RIGHT_ARROW, BACKSPACE, DELETE}
 
-4.Tuturial
+4. Tuturial
 To type the desired character, you need to determine which group it belongs to. Groups 1, 3, and 5 are the main groups, while groups 2, 4, and 6 are supplementary groups.
 
 You start with the alphabet group:
@@ -46,7 +46,7 @@ To type capital letters, you can hold the Shift key while typing alphabet charac
 
 To type supplementary characters without holding the Space key, press the Shift key twice to activate the supplementary group and press it twice again to turn it off.
 
-5.Requirements Phase:
+5. Requirements Phase:
 -Story, defining the purpose of creating the product.
 -Identifying the basic requirements for the keyboard: Who is it for? What are the main features?
 -Finalize basic requirements.
