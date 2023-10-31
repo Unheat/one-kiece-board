@@ -26,6 +26,7 @@ Group 5 (black numbers and symbols at the bottom right) includes: {'-', '7', '8'
 Group 6 (yellow function keys at the bottom left) includes: {PAGE_UP, PAUSE, END, HOME, ESC, PAGE_DOWN, UP_ARROW, LEFT_ALT, LEFT_CTRL, INSERT, LEFT_ARROW, DOWN_ARROW, RIGHT_ARROW, BACKSPACE, DELETE}
 
 4. Tuturial
+
 To type the desired character, you need to determine which group it belongs to. Groups 1, 3, and 5 are the main groups, while groups 2, 4, and 6 are supplementary groups.
 
 You start with the alphabet group:
@@ -70,5 +71,9 @@ To type supplementary characters without holding the Space key, press the Shift 
 +Coding based on the logic diagram created in the design phase, using Arduino IDE and C/C++.
 
 -Verification Phase:
+
+Testing the keyboard and addressing any bugs.
+
+![398301567_259799773316403_7283304413622249078_n](https://github.com/Unheat/one-kiece-board/assets/100108666/766b8e3d-4507-4f3b-80ef-587f16bbc416)
 
 Testing the keyboard and addressing any bugs.
